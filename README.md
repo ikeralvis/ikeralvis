@@ -20,7 +20,7 @@ Aquí algunos proyectos en los que estoy trabajando (¡échales un ojo! 👀):
 - 🎨 **[GaleriaArte-IW](https://github.com/ikeralvis/GaleriaArte-IW):**  Proyecto Web para ver una galeria de arte con sus exposiciones y cuadros. 
 - 🏙️ **[Blog de Viaje a Londres](https://github.com/ikeralvis/BlogLondres):** Un blog sobre sitios y rutas para hacer en Londres. 
 - 🚴 **[Strava](https://github.com/mikelgarduno/strava-DS5):** Una versión de la app de Strava desarrollado en Java y SpringBoot
-- 🏢 **[CityInsight](https://ikeralvis.github.io/CityInsight/):** Pagina Web basada en HTML, CSS y JavaScript para un prototipo de un proyecto para **IBM Consulting**
+- 🏢 **[CityInsight](https://github.com/ikeralvis/CityInsight/):** Pagina Web basada en HTML, CSS y JavaScript para un prototipo de un proyecto para **IBM Consulting**.
 ---
 
 ## 🌍 Conéctate conmigo  
