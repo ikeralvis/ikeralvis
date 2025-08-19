@@ -8,18 +8,21 @@
 ✨ Aquí algunas herramientas y lenguajes con los que he trabajado:  
 
 - **Lenguajes**: Java ☕ | C | C++ | Python 🐍 | HTML & CSS 🌐  
-- **Frameworks**: Django 🍇 | Spring Boot 🌱  
-- **Bases de datos**: MySQL 📊  
+- **Frameworks**: Django 🍇 | Spring Boot 🌱 | React 
+- **Bases de datos**: MySQL 📊
+- **Portales y Plataformas**: Liferay Portal
 
 
 ## 📂 Repositorios Destacados  
 Aquí algunos proyectos en los que estoy trabajando (¡échales un ojo! 👀):  
 
+- ⛽ **[Gasolineras App](https://github.com/ikeralvis/gasolineras-app)**: Una aplicación integral para ver gasolineras cercanas, sus precios y ubicarlas en un mapa.
 - 🎨 **[GaleriaArte-IW](https://github.com/ikeralvis/GaleriaArte-IW):**  Proyecto Web para ver una galeria de arte con sus exposiciones y cuadros. 
 - 🏙️ **[Blog de Viaje a Londres](https://github.com/ikeralvis/BlogLondres):** Un blog sobre sitios y rutas para hacer en Londres. 
 - 🚴 **[Strava](https://github.com/mikelgarduno/strava-DS5):** Una versión de la app de Strava desarrollado en Java y SpringBoot
-- 🎥**[DeustoStream](https://github.com/mikelgarduno/DeustoStream):** Una versión de Netflix desarrollado en Java y SpringBoot.
+- 🎥 **[DeustoStream](https://github.com/mikelgarduno/DeustoStream):** Una versión de Netflix desarrollado en Java y SpringBoot.
 - 🏢 **[CityInsight](https://github.com/ikeralvis/CityInsight/):** Pagina Web basada en HTML, CSS y JavaScript para un prototipo de un proyecto para **IBM Consulting**.
+- 
 
 
 
